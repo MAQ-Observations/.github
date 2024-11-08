@@ -1,5 +1,7 @@
 # .github
 
+GitHub organization related to the www.maq-observations.nl website, with data from the Veenkampen, Loobos and Amsterdam sites.
+
 MAQ-Observations organization currently contains two repositories:
 1) pre-processing
 2) post-processing
@@ -8,4 +10,4 @@ Pre-processing contains all scripts to process raw data to readable format for t
 
 Post-processing contains various scripts to retrieve, download and plot data through our API. Make sure to register at https://maq-observations.nl/api/ to be able to use these scripts. Here, we encourage collaboration from all interested parties.
 
-Both repositories contain more detailed information and documentation.
+Both repositories contain more detailed information and documentation. Feel free to reach out to observations.maq@wur.nl for questions and remarks about this GitHub or the website in general.
